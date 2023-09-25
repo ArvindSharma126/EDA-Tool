@@ -5,6 +5,9 @@ Hello. Are you tired of running code for general data exploration again and agai
 ```
 python dashboard.py <csv file>
 ```
+then open the server produced
+
+![Screenshot EDA](https://github.com/ArvindSharma126/EDA-Tool/blob/a6224594972a1f6c62a2a61697b4aea1670f76c4/Screenshot%20from%202023-09-25%2021-46-27.png)
 
 ## Current capability
 * only read csv file

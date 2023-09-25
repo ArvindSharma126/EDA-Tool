@@ -1,6 +1,12 @@
 # EDA-Tool
 Hello. Are you tired of running code for general data exploration again and again. Fear not, I am here with a EDA-Tool for general data exploration.
 
+## Required python libraries
+
+* pandas
+* plotly
+* dash
+
 ## How to use
 ```
 python dashboard.py <csv file>
